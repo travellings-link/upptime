@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 577,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
+    "time": 610,
+    "timeDay": 610,
+    "timeWeek": 610,
+    "timeMonth": 610,
+    "timeYear": 610,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1921,
-    "timeDay": 1921,
-    "timeWeek": 1921,
-    "timeMonth": 1921,
-    "timeYear": 1921,
+    "time": 1963,
+    "timeDay": 1963,
+    "timeWeek": 1963,
+    "timeMonth": 1963,
+    "timeYear": 1963,
     "dailyMinutesDown": {}
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://api.travellings.cn/random",
     "icon": "https://icons.duckduckgo.com/ip3/api.travellings.cn.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 526,
-    "timeDay": 526,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "time": 991,
+    "timeDay": 991,
+    "timeWeek": 991,
+    "timeMonth": 991,
+    "timeYear": 991,
     "dailyMinutesDown": {
-      "2024-05-02": 4
+      "2024-05-02": 30
     }
   }
 ]
