@@ -7,6 +7,8 @@ sites:
     url: https://www.travellings.cn
   - name: Member List
     url: https://list.travellings.cn
+  - name: Wrong
+    url: https://lalala.travellings.cn
   - name: API
     url: https://api.travellings.cn/random
     __dangerous__body_down_if_text_missing: '"success":true,'
