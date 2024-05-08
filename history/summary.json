@@ -22,19 +22,19 @@
     "url": "https://list.travellings.cn",
     "icon": "https://icons.duckduckgo.com/ip3/list.travellings.cn.ico",
     "slug": "member-list",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1983,
-    "timeDay": 2004,
-    "timeWeek": 1983,
-    "timeMonth": 1983,
-    "timeYear": 1983,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.69%",
+    "time": 1992,
+    "timeDay": 2077,
+    "timeWeek": 1992,
+    "timeMonth": 1992,
+    "timeYear": 1992,
     "dailyMinutesDown": {
-      "2024-05-08": 0
+      "2024-05-08": 26
     }
   },
   {
