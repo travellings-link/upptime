@@ -22,9 +22,9 @@
     "url": "https://list.travellings.cn",
     "icon": "https://icons.duckduckgo.com/ip3/list.travellings.cn.ico",
     "slug": "member-list",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1983,
     "timeMonth": 1983,
     "timeYear": 1983,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-08": 0
+    }
   },
   {
     "name": ".link跳转页面",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.travellings.cn.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
     "time": 1513,
     "timeDay": 1317,
     "timeWeek": 1513,
