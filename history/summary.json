@@ -6,8 +6,8 @@
     "slug": "main-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
@@ -16,7 +16,7 @@
     "timeMonth": 594,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-06-23": 0
+      "2024-06-23": 1
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://list.travellings.cn",
     "icon": "https://icons.duckduckgo.com/ip3/list.travellings.cn.ico",
     "slug": "member-list",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.63%",
@@ -36,6 +36,7 @@
     "timeMonth": 2004,
     "timeYear": 1956,
     "dailyMinutesDown": {
+      "2024-06-23": 0,
       "2024-06-20": 6,
       "2024-06-19": 154,
       "2024-06-15": 42,
@@ -68,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.travellings.cn.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "85.29%",
+    "uptime": "85.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "85.29%",
+    "uptimeYear": "85.31%",
     "time": 1186,
     "timeDay": 858,
     "timeWeek": 978,
