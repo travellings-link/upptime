@@ -48,19 +48,19 @@
     "url": "https://travellings.link/",
     "icon": "https://icons.duckduckgo.com/ip3/travellings.link.ico",
     "slug": "link",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 1208,
-    "timeWeek": 384,
-    "timeMonth": 169,
-    "timeYear": 143,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 160,
+    "timeDay": 1178,
+    "timeWeek": 465,
+    "timeMonth": 197,
+    "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-06-23": 0
+      "2024-06-23": 14
     }
   },
   {
