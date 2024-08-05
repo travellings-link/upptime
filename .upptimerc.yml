@@ -5,10 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: Main Site
     url: https://www.travellings.cn
+    headers:
+      - "User-Agent: $USER_AGENT"
   - name: Member List
     url: https://list.travellings.cn
   - name: .link跳转页面
     url: https://travellings.link/
+    headers:
+      - "User-Agent: $USER_AGENT"
   - name: API
     url: https://api.travellings.cn/random
     __dangerous__body_down_if_text_missing: '"success":true,'
