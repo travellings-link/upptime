@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
-    "timeDay": 600,
-    "timeWeek": 621,
-    "timeMonth": 608,
+    "timeDay": 474,
+    "timeWeek": 613,
+    "timeMonth": 609,
     "timeYear": 585,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.77%",
-    "time": 881,
-    "timeDay": 832,
-    "timeWeek": 598,
-    "timeMonth": 641,
-    "timeYear": 649,
+    "time": 880,
+    "timeDay": 656,
+    "timeWeek": 609,
+    "timeMonth": 645,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2024-06-27": 768,
       "2024-06-26": 1440,
@@ -40,8 +40,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1160,
       "2024-06-20": 6,
-      "2024-06-19": 154,
-      "2024-06-15": 42
+      "2024-06-19": 154
     }
   },
   {
@@ -50,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/travellings.link.ico",
     "slug": "link",
     "status": "up",
-    "uptime": "45.65%",
+    "uptime": "45.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "39.34%",
     "time": 189,
-    "timeDay": 126,
-    "timeWeek": 169,
-    "timeMonth": 299,
+    "timeDay": 143,
+    "timeWeek": 163,
+    "timeMonth": 296,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2025-02-14": 18,
@@ -293,16 +292,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.travellings.cn.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "91.54%",
+    "uptime": "91.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.59%",
     "time": 1083,
-    "timeDay": 1265,
-    "timeWeek": 973,
-    "timeMonth": 982,
-    "timeYear": 1061,
+    "timeDay": 1021,
+    "timeWeek": 1010,
+    "timeMonth": 986,
+    "timeYear": 1062,
     "dailyMinutesDown": {
       "2025-03-29": 980,
       "2025-03-28": 1440,
@@ -341,8 +340,7 @@
       "2024-08-21": 149,
       "2024-08-14": 14,
       "2024-06-30": 112,
-      "2024-06-19": 153,
-      "2024-06-15": 41
+      "2024-06-19": 153
     }
   }
 ]
