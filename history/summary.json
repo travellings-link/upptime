@@ -52,11 +52,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/travellings.link.ico",
     "slug": "link",
     "status": "up",
-    "uptime": "51.30%",
+    "uptime": "51.31%",
     "uptimeDay": "99.08%",
     "uptimeWeek": "99.30%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "49.75%",
+    "uptimeYear": "49.79%",
     "time": 188,
     "timeDay": 553,
     "timeWeek": 255,
@@ -252,8 +252,7 @@
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
-      "2024-08-02": 1440,
-      "2024-08-01": 1440
+      "2024-08-02": 1440
     }
   },
   {
@@ -262,7 +261,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.travellings.cn.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "92.40%",
+    "uptime": "92.41%",
     "uptimeDay": "99.10%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.63%",
