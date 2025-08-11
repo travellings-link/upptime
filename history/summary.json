@@ -60,11 +60,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/travellings.link.ico",
     "slug": "link",
     "status": "up",
-    "uptime": "52.34%",
+    "uptime": "52.35%",
     "uptimeDay": "99.19%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "98.87%",
-    "uptimeYear": "52.49%",
+    "uptimeYear": "52.51%",
     "time": 205,
     "timeDay": 691,
     "timeWeek": 660,
@@ -254,8 +254,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
