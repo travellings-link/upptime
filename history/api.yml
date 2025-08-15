@@ -1,7 +1,7 @@
 url: https://api.travellings.cn/random
-status: up
-code: 200
-responseTime: 911
-lastUpdated: 2025-08-15T11:19:42.837Z
+status: down
+code: 522
+responseTime: 20190
+lastUpdated: 2025-08-15T11:44:54.557Z
 startTime: 2024-05-02T14:09:41.045Z
 generator: Upptime <https://github.com/upptime/upptime>
